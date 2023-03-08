@@ -14,3 +14,4 @@ Includes:
 
 Requires SDL2, which is not included in the repo.
 
+![Stone cat](/stone_cat.png)
