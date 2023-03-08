@@ -2,6 +2,15 @@
 
 A project that I started to practice foundational graphics programming techniques.
 
-Includes simple Rasterization using edge equations, backface culling, frustum culling, reverse Z-buffering, perspective correct interpolation of barycentric coordinates, texture mapping and some simple shaders.
+Includes:
+* Simple vector-matrix library
+* Wireframe drawing with Bresenham's Line Drawing Algorithm
+* Rasterization using edge equations
+* Texture mapping
+* Backface Culling
+* Frustum Culling
+* Shader interface using C++ inheritance
+* Simple shaders
 
 Requires SDL2, which is not included in the repo.
+
