@@ -15,3 +15,7 @@ Includes:
 Requires SDL2, which is not included in the repo.
 
 ![Stone cat](/stone_cat.png)
+
+## Resources
+- [Scratchapixel](https://www.scratchapixel.com/)
+- [Tiny Renderer](https://github.com/ssloy/tinyrenderer/wiki)
