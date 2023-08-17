@@ -1,4 +1,4 @@
-# CPU-based Renderer Demo
+# CPU-based Renderering
 
 A project that I started to practice foundational graphics programming techniques.
 
